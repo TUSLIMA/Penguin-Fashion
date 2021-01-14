@@ -1,0 +1,15 @@
+.buy-now-button{
+    background-image:  linear-gradient(#e66465, #9198e5);
+    color: #fff;
+    border: none;
+    border-radius: 500px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container-fluid{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+,categories{
+    background-color:lightseagreen;
+}
